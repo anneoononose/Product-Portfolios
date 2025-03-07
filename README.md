@@ -28,6 +28,6 @@ A go-to-market strategy for an interactive educational platform combining expert
 - Channel Planning
 
 ## Contact
-- Email: anne437271@gmail.com
+- Email: anneoononose@gmail.com
 - LinkedIn: [Anne Ononose](https://www.linkedin.com/in/anneononose/)
 - GitHub: [@anneoonoonose](https://github.com/anneoonoonose)
